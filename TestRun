@@ -1,0 +1,43 @@
+Script started on Wed 03 Mar 2021 03:23:00 PM PST
+]0;rkulbacki@bec307dl03:~/comp230/labs/lab6[?1034h[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mlab6(B[m[38;5;15m>(B[m java ComputeAreaAndPerimeter
+Enter c for circle
+Enter r for rectangle
+Enter t for right triangle
+c
+Enter the radius of the circle
+2.13
+Shape is a Circle: radius is 2.13
+the area is 14.25
+The perimeter is 13.38
+Would you like to run the program again?(y for yes or n for no)y
+Enter c for circle
+Enter r for rectangle
+Enter t for right triangle
+r
+Enter the width of the rectangle
+10
+Enter the height of the rectangle
+4.2
+Shape is a Rectangle: width is 10.0, height is 4.2
+the area is 42.00
+The perimeter is 28.40
+Would you like to run the program again?(y for yes or n for no)n y
+Enter c for circle
+Enter r for rectangle
+Enter t for right triangle
+t
+Enter the base of the triangle
+3
+Enter the height of the triangle
+4
+Shape is a RtTriangle: base is 3.0, height is 4.0
+the area is 6.00
+The perimeter is 12.00
+Would you like to run the program again?(y for yes or n for no)n
+]0;rkulbacki@bec307dl03:~/comp230/labs/lab6[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mlab6(B[m[38;5;15m>(B[m quit
+bash: quit: command not found...
+Similar command is: 'quot'
+]0;rkulbacki@bec307dl03:~/comp230/labs/lab6[38;5;39mrkulbacki(B[m[38;5;15m@(B[m[38;5;136mbec307dl03(B[m[38;5;15m (B[m[38;5;2mlab6(B[m[38;5;15m>(B[m exit
+exit
+
+Script done on Wed 03 Mar 2021 03:23:54 PM PST
